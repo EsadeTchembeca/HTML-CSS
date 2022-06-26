@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg,#A7BDB5,#D5BDA4,#c2ccd1);
+    box-shadow: 1.5px 5px 2px rgba(0, 0, 0, 0.26);
+}
+h2{
+    color: #8a0900;
+    text-align: center;
+}
+h1{
+    color: #325399;
+    text-align: center;
+}
+p{
+    color: rgba(10, 10, 10, 0.733);
+}
+h4{
+    color: #D3BDA4;
+}
+div:hover{
+    color: #325399;
+}
+.link:hover{
+  color: #d0e5ff;
+}
+.link{
+    color: #639db8;
+    text-decoration: none;
+}
+section{
+    background-color: #639db8;
+    width: 45em;
+    height: 12em;
+    margin: 24px 276px;
+    padding: 1px 4px ;
+    box-shadow: 3px 5px 4px black;
+}
+article{
+    background-color: #D3BDA4;
+    
+    margin: -9px 41px;
+    width: 40em;
+    height: 10em;
+    margin-top: 5px;
+}
+footer{
+    background-color: #1b46a1;
+    width: 898px;
+    margin: -15px 214px;
+    box-shadow: 3px 5px 4px black;
+}
+#p2{
+    color: aliceblue;
+    text-align: center;
+}
+#link2{
+    color: #e6c55b;
+    text-decoration: none;
+}
+#link2:hover{
+    color: #d0e5ff;
+}
+#academia{
+    width: 728px;
+    margin: -17px 276px;
+    box-shadow: 3px 5px 4px black;
+}
+#logo{
+    margin: -17px 550px;
+}
